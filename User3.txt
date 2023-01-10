@@ -1,0 +1,8 @@
+test/IMG_3915.jpg.jpeg 0
+test/Meloidogyne_incognita_16.jpeg 0
+test/Meloidogyne_incognita_17.jpeg 0
+test/Meloidogyne_incognita_18.jpeg 0
+test/Meloidogyne_incognita_19.jpeg 0
+test/Meloidogyne_incognita_2.jpeg 0
+test/Meloidogyne_incognita_20.jpeg 0
+test/Meloidogyne_incognita_21.jpeg 0

@@ -1,3 +1,12 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Page</title>
+</head>
+<body>
+	<h1>Welcome to my page!</h1>
+	
 <?php session_start();
 // header('Content-Type: text/html');
 // header('Content-Disposition: inline');
@@ -102,3 +111,11 @@ span.psw {
   </form>
 </body>
 </html>
+
+</body>
+</html>
+
+
+
+
+

@@ -1,11 +1,4 @@
 
-<!DOCTYPE html>
-<html>
-<head>
-	<title>My Page</title>
-</head>
-<body>
-	<h1>Welcome to my page!</h1>
 	
 <?php session_start();
 // header('Content-Type: text/html');
@@ -109,9 +102,6 @@ span.psw {
     </tr>
     </table>
   </form>
-</body>
-</html>
-
 </body>
 </html>
 

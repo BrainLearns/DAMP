@@ -1,5 +1,6 @@
-header('Content-Disposition: inline');
 <?php session_start();
+header('Content-Type: text/html');
+header('Content-Disposition: inline');
 ?>
 <!doctype html>
 <html>

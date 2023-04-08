@@ -2,6 +2,10 @@
 header('Content-Type: text/html');
 header('Content-Disposition: inline');
 ?>
+<?php
+header('Location: Source_Code/login.php');
+exit();
+?>
 <!doctype html>
 <html>
 <head>

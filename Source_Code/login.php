@@ -1,5 +1,4 @@
 header('Content-Disposition: inline');
-
 <?php session_start();
 ?>
 <!doctype html>

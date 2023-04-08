@@ -1,6 +1,6 @@
 <?php session_start();
-header('Content-Type: text/html');
-header('Content-Disposition: inline');
+// header('Content-Type: text/html');
+// header('Content-Disposition: inline');
 header('Location: login.php');
 exit();
 ?>

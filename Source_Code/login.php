@@ -1,7 +1,7 @@
 <?php session_start();
 header('Content-Type: text/html');
 header('Content-Disposition: inline');
-header('Location: Source_Code/login.php');
+header('Location: login.php');
 exit();
 ?>
 <!doctype html>
